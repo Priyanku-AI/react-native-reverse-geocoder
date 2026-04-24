@@ -41,8 +41,11 @@
   },
   "keywords": [
     "react-native",
-    "ios",
-    "android"
+    "android",
+    "geocoder",
+    "reverse-geocoding",
+    "location",
+    "address"
   ],
   "repository": {
     "type": "git",
