@@ -1,5 +1,11 @@
 import { useState } from 'react';
-import { Text, View, StyleSheet, Button, ActivityIndicator } from 'react-native';
+import {
+  Text,
+  View,
+  StyleSheet,
+  Button,
+  ActivityIndicator,
+} from 'react-native';
 import { reverseGeocode } from 'react-native-reverse-geocoder';
 
 export default function App() {
