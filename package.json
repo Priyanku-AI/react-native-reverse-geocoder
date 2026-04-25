@@ -45,7 +45,10 @@
     "geocoder",
     "reverse-geocoding",
     "location",
-    "address"
+    "address",
+    "no-api-key",
+    "geocoding",
+    "react-native-geocoder"
   ],
   "repository": {
     "type": "git",
