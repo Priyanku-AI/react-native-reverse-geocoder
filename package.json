@@ -45,7 +45,8 @@
     "geocoder",
     "reverse-geocoding",
     "location",
-    "address"
+    "address",
+    "react-native-reverse-geocoder"
   ],
   "repository": {
     "type": "git",
