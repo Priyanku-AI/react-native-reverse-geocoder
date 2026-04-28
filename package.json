@@ -1,6 +1,6 @@
 {
   "name": "react-native-reverse-geocoder",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Reverse geocoding for Android using native Geocoder, no API key required",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
